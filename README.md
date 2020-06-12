@@ -23,3 +23,6 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 "# vue-auth0-with-vuex-vue-router" 
+
+a
+dfasfdasdfasdfasdf
